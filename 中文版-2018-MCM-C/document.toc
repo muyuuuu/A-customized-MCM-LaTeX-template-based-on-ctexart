@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Restatement of the Problem}{1}
+\contentsline {subsection}{\numberline {1.2}Our Work}{1}
+\contentsline {section}{\numberline {2}Assumptions and Notations}{1}
+\contentsline {subsection}{\numberline {2.1}Assumptios}{2}
+\contentsline {subsection}{\numberline {2.2}Notations}{2}
+\contentsline {section}{\numberline {3}Data Preprocessing}{2}
+\contentsline {subsection}{\numberline {3.1}Default Value Processing}{2}
+\contentsline {subsection}{\numberline {3.2}Data Normalization and Classification}{3}
+\contentsline {section}{\numberline {4}Model Construction}{3}
+\contentsline {subsection}{\numberline {4.1}Model I: Construct Energy Profile}{3}
+\contentsline {subsubsection}{\numberline {4.1.1}Calculate Profile Weight}{3}
+\contentsline {subsubsection}{\numberline {4.1.2}Energy Evolving}{5}
+\contentsline {subsection}{\numberline {4.2}Model II }{7}
+\contentsline {subsubsection}{\numberline {4.2.1}Interpret Similarities And Differences}{7}
+\contentsline {subsubsection}{\numberline {4.2.2}Analysis Influential Infactor}{8}
+\contentsline {subsection}{\numberline {4.3}Model III }{9}
+\contentsline {subsubsection}{\numberline {4.3.1}Producing and Planning Goals}{9}
+\contentsline {section}{\numberline {5}Model Extension and Sensitivity Analysis}{10}
+\contentsline {subsection}{\numberline {5.1}Sensitivity}{10}
+\contentsline {subsection}{\numberline {5.2}Model Extension}{11}
+\contentsline {section}{\numberline {6}Strengths and Weaknesses}{11}
+\contentsline {subsection}{\numberline {6.1}Strengths}{12}
+\contentsline {subsection}{\numberline {6.2}Weaknesses}{12}
+\contentsline {section}{\numberline {7}Conclusion}{13}
+\contentsline {section}{References}{14}
+\contentsline {section}{Appendices for Code and Data}{14}
