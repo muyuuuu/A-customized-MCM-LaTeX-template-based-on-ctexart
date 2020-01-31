@@ -4,7 +4,7 @@
 
 # 使用
 
-（xelatex+bibtex）。保留了ctexart文档类，建议xelatex命令，方便写中文和翻译。还有一点重要的使用方式，学会英文搜索和stackoverflow。直接使用本模板，直接报错，因为你的电脑缺字体。windows的字体设置参考中文版，Linux的字体设置参考英文版。
+（xelatex+bibtex）。保留了ctexart文档类，建议xelatex命令，方便写中文和翻译。还有一点重要的使用方式，学会英文搜索和stackoverflow。windows的字体设置参考中文版，Linux的字体设置参考英文版。
 
 # 注意事项
 
