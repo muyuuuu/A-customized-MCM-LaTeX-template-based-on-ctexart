@@ -1,6 +1,9 @@
 # 简介
 
-<div align=center>![这里写图片描述](logo.ico)
+<div style="align: center">
+<img src="https://github.com/muyuuuu/A-customized-MCM-LaTeX-template-based-on-ctexart/blob/master/logo.png"/>
+</div>
+
 
 - 这里是华北理工大学数学建模协会定制的美国大学生数学建模竞赛LaTeX模板。
 - 本模板已经在Windows10，MacOS，Linux（Arch）下全线跑通。
