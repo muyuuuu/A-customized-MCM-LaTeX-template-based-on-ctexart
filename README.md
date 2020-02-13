@@ -1,11 +1,14 @@
 # 简介
 
+<div align=center>![这里写图片描述](logo.ico)
+
 - 这里是华北理工大学数学建模协会定制的美国大学生数学建模竞赛LaTeX模板。
 - 本模板已经在Windows10，MacOS，Linux（Arch）下全线跑通。
 - 如果作者不是很忙，会持续跟进每年的美赛模板变动情况，并更新。
 
 # 使用
 
+- LaTeX 模板是给有基础的人使用的，不是有了现成的模板就能方便小白，没基础还是驾驭不了。
 - `xelatex+bibtex`。保留了ctexart文档类，建议xelatex命令，方便写中文和翻译。
 - 还有一点重要的使用方式，学会英文搜索和stackoverflow。
 - windows的字体设置参考中文版，Linux的字体设置参考英文版。
